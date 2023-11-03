@@ -4,6 +4,6 @@
 
 ### Questions: 
 
-Chapter 2: 1, 3, 8, 10
+- Chapter 2: 1, 3, 8, 10
 
-Chapter 3: 1, 5, 8, 9
+- Chapter 3: 1, 5, 8, 9
