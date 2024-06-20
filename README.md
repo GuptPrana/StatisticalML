@@ -1,2 +1,5 @@
-# StatisticalML
-General Repo to Store Coursework for Statistical ML Courses
+## Coursework 
+
+#### HKUST
+- StatML: M4432 Statistical Machine Learning
+- MatrixAnalysis: E5600 Linear System Theory

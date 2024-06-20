@@ -1,4 +1,4 @@
-## ELEC5600 - Linear System Theory
+## E5600 - Linear System Theory
 
 ### Project on Davis-Wielandt Shells
 
