@@ -16,6 +16,6 @@ similarity orbit”, SIAM Journal on Matrix Analysis and Applications, vol. 30, 
 in this line.
 
 #### File Description:
-- Davis-Wielandt_Shell_Report.pdf: Report
-- Davis-Wielandt_Shell_PPT.pdf: Reference Slides
+- Davis-Wielandt-Shell_Report.pdf: Project Report
+- Davis-Wielandt-Shell_PPT.pdf: Reference Slides
 - Matlab Scripts: Plots Numerical Range and DW Shell
