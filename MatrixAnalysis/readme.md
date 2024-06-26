@@ -14,3 +14,8 @@ similarity orbit”, SIAM Journal on Matrix Analysis and Applications, vol. 30, 
 
 (c) Prove the main result of Theorem 2.1 in the above paper using your own language. Try to go further
 in this line.
+
+#### File Description:
+- Davis-Wielandt_Shell_Report.pdf: Report
+- Davis-Wielandt_Shell_PPT.pdf: Reference Slides
+- Matlab Scripts: Plots Numerical Range and DW Shell
