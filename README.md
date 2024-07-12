@@ -1,7 +1,3 @@
-## Coursework 
+## M4432 - Statistical Machine Learning
 
-Statistics and Machine Learning related Coursework at HKUST.
-
-#### HKUST
-- E5600: Linear System Theory (Matrix Analysis)
-- M4432: Statistical Machine Learning
+#### Reference Book: Introduction to Statistical Learning in Python (Python)
