@@ -1,6 +1,4 @@
-## M4432 - Statistical Machine Learning
-
-Coursework related to M4432. 
+## Statistical Machine Learning Coursework
 
 Key Contents: 
 1. Bias-variance Trade-off
